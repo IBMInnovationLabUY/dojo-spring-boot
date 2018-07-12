@@ -9,6 +9,7 @@ En este dojo se trabajara con Spring-boot para crear localmente un microservicio
 	* Maven
 	* Eclipse
 	* java jdk 1.8
+	* Docker 17+
 
 2. **Crear una aplicación web con spring starter** 
 	* Ir a el asistente web http://start.spring.io/ para generar el fuente base. 
@@ -50,5 +51,5 @@ En este dojo se trabajara con Spring-boot para crear localmente un microservicio
 	* Verificar que la aplicación está desplegada ingresando a http://localhost:8080 , http://localhost:8080/healt y  http://localhost:8080/v1
 	* Ejecutar: bx dev deploy 
 		Esto desplegará la aplicación en IBM Cloud (en la cuenta que estemos logueados)
-	*Ingresar a la cuenta de IBM Cloud y verificar que la aplicación esta desplegada y accesible.
+	* Ingresar a la cuenta de IBM Cloud y verificar que la aplicación esta desplegada y accesible.
 	
