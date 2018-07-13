@@ -1,0 +1,12 @@
+host: demomicro
+domain: mybluemix.net
+applications:
+- instances: 1
+  timeout: 180
+  name: demomicro
+  path: ./target/demomicro-1.0-SNAPSHOT.jar
+  buildpack: java_buildpack
+  command: ""
+  memory: 512M
+  domain: mybluemix.net
+  host: demomicro

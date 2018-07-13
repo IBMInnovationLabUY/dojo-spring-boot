@@ -1,0 +1,3 @@
+target/demomicro-1.0-SNAPSHOT.jar	usr/src/demomicro
+terraform/scripts/install.sh	usr/src/demomicro
+terraform/scripts/start.sh		usr/src/demomicro
